@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Please note that I taught all the following courses in French
 nav: true
-nav_order: 5
+nav_order: 2
 ---
 
 
