@@ -2,36 +2,36 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Please note that I taught all the following courses in French
+description: Please note that I taught all the following courses in French.
 nav: true
 nav_order: 2
 ---
 
 
 
-#### Summary of courses taught
+#### Summary of taught courses 
 
 | <b>Courses</b>                       |  <b>Level</b>               |  <b>Year</b>                 | <b>Type</b>     | <b>Hourly volume</b>  |
 |--------------------------------------|-----------------------------|------------------------------|----------------------|-----------------|
-| Statistics                          | INSA : GM4                  | 2019 et 2020                 | CM/TD/TP             | 42H x 2         |
-| Projet on machine learning           | UVS : M2                    | 2021                         | CM/TP                | 27H             |
-| Inferential Statistics               | INSA : GM3                  | 2020 et 2021                 | TD/TP                | 30H x 2         |
-| Matrix Computation                   | INSA : ITI3                 | 2019 et 2020                 | TD/TP                | 21H x 2         |
-| Mathematics refresher course          | INSA : ITI3                 | 2019 et 2020                 | CM/TD                | 21H x 2         |
-| Introduction to machine learning     | INSA : ESD                  | 2020                         | CM/TP                | 21H             |
-| Mathematics refresher course         | INSA : ESD                  | 2019 et 2020                 | CM/TD                | 21H x 2         |
+| Statistics                          | INSA: GM4                  | 2019 & 2020                 | CM/TD/TP             | 42H x 2         |
+| Projet on machine learning           | UVS: M2                    | 2021                         | CM/TP                | 27H             |
+| Inferential Statistics               | INSA: GM3                  | 2020 & 2021                 | TD/TP                | 30H x 2         |
+| Matrix Computation                   | INSA: ITI3                 | 2019 & 2020                 | TD/TP                | 21H x 2         |
+| Mathematics refresher course          | INSA: ITI3                 | 2019 & 2020                 | CM/TD                | 21H x 2         |
+| Introduction to machine learning     | INSA: ESD                  | 2020                         | CM/TP                | 21H             |
+| Mathematics refresher course         | INSA: ESD                  | 2019 & 2020                 | CM/TD                | 21H x 2         |
 | <b>Total</b>                         | <b>INSA 2019--2020: 156H</b>| <b>INSA 2020--2021: 192H</b>| <b>UVS 2021: 21H</b> |                 |
 
-Acronyms GM, UVS, ITI and ESD stand respectively for Génie Mathématiques, Université Virtuelle du Sénégal, master en Big Data, Informatique et Technologie de l’Information, Expert en Sciences des Données. Also, CM, TP and TD means, respectively, lecture, directed work, practical work.
+Acronyms GM, UVS, ITI and ESD stand respectively for Génie Mathématiques, [Université Virtuelle du Sénégal](https://www.uvs.sn), master en Big Data, Informatique et Technologie de l’Information, Expert en Sciences des Données. Also, CM, TP and TD means, respectively, lecture, directed work, practical work.
 
 &nbsp;
-#### Some details on the courses taught 
+#### Some details about taught courses  
 
 ##### Statistics
 * Head: [Bruno Portier](http://lmi2.insa-rouen.fr/~bportier/)
 * Number of students: 72 students in 2019 and 78 in 2020.
-* Work provided: Ensure the CM/TD/TP (R software), correct the exam papers and participate to defenses.
-* Content: this course was centered around the theme of the Linear Model and consisted of the following chapter:
+* Work provided: Ensure CM/TD/TP (R software), correct the exam papers and participate to defenses.
+* Content: this course was centered around the theme of the Linear Model and included  the following chapter:
     * descriptive study of time series; 
     * simple and multiple Gaussian linear model; 
     * 1-factor analysis of variance;
@@ -42,8 +42,8 @@ Acronyms GM, UVS, ITI and ESD stand respectively for Génie Mathématiques, Univ
 * Head: [Gilles Gasso](https://gasso.pages.insa-rouen.fr/home/).
 * Number of students: about 30 students per group.
 * Work provided: ensure  TD and  TP (with the Octave software).
-* Contents: the aim of this course is to initiate students to the problems related to the use of numerical methods to solve engineering problems. It consisted of the following courses :
-    * solving linear systems with application to least squares problems; - matrix factorization: LU, with pivot, Cholesky, QR ;
+* Contents: the aim of this course is to initiate students to the problems related to the use of numerical methods to solve engineering problems. It included the following courses:
+    * solving linear systems with application to least squares problems; - matrix factorization: LU, with pivot, Cholesky, QR;
     * iterative methods: Jacobi, Gauss-Seidel and relaxation;
     * methods for computing eigenvalues and singular values.
 
