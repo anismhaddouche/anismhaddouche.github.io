@@ -2,24 +2,32 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <p> <p>
+      
+      
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: Anis_photo.png
+  description : jjhzkejkzehj
+  image_circular: False # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Research Engineer<p>
+    <p>IMT Atlantique, LABSTICC</p>
+    <p>Brest, France<p>
+    <p>+33 766 552 073</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello, and welcome to this website which is a tentative to gather my teaching and research activities and also some non-scientific projects.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a PhD on applied mathematics with a specialization in statistics. My research interests include decision theory, shrinkage estimators and multivariate statistics.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I am a research engineer at the [LABSTICC](https://labsticc.fr/en) laboratory in the [MOTEL](https://labsticc.fr/fr/equipes/motel) team since September 2021. I am also a freelance mentor on the [Openclassrooms](https://openclassrooms.com/fr/paths/164-data-scientist) data training paths (Data Science, Data Analyst and Machine Learning Engineer).
+
+From 2019 to 2021 I was a temporary teaching and research assistant (ATER) at [INSA de Rouen Normandie](https://www.insa-rouen.fr).
+
+
