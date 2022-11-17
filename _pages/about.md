@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About 
+title: About
 permalink: /
 subtitle: <p> <p>
       
@@ -22,7 +22,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello and welcome to this website which is a tentative to gather my teaching and research activities and also some non-scientific projects.
+Hello, and welcome to this website which is a tentative to gather my teaching and research activities and also some non-scientific projects.
 
 I am a PhD on applied mathematics with a specialization in statistics. My research interests include decision theory, shrinkage estimators and multivariate statistics.
 
