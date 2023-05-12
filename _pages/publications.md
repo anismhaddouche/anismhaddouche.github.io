@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description: All my published papers in reverse chronological order.
-years: [2018,2020,2021,2022]
+years: [2018,2020,2021,2022,2023]
 nav: true
 nav_order: 1
 ---
