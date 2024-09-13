@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello and welcome to my website which is a tentative to gather my teaching and research activities.
+Hello and welcome to my website....
 
 I am a PhD on applied mathematics with a specialization in statistics. My research interests include decision theory, shrinkage estimators and multivariate statistics.
 
