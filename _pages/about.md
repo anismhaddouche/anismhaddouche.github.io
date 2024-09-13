@@ -11,7 +11,7 @@ profile:
   image_circular: False # crops the image to make it circular
   address: >
     <p>Deputy Head of Data Science<p>
-    <p>PRIMEVER</p>
+    <p>at PRIMEVER</p>
     <p>Agen, France<p>
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
