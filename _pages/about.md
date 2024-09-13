@@ -19,15 +19,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-Voici une version allégée et améliorée du texte avec un vocabulaire plus fluide et naturel :
-
----
-
 Hello and welcome to my website.
 
-I am currently the Deputy Head of Data Science at [PRIMEVER](https://www.reseau-primever.com/en/), a leading company in the transportation of fruits and vegetables. In this role, I manage a team of data scientists and analysts, and oversee projects focused on optimizing logistics and improving operational efficiency.
+I am currently the Deputy Head of Data Science at [PRIMEVER](https://www.reseau-primever.com/en/), a leading company in the transportation of fruits and vegetables. In this role, I manage a team of data scientists and analysts, and oversee projects with a business impacts.
 
-Previously, I gained valuable academic experience as a Research Engineer at the [LABSTICC](https://labsticc.fr/en) laboratory, within the [MOTEL](https://labsticc.fr/fr/equipes/motel) team, where my research focused on applied mathematics and statistics, particularly decision theory, shrinkage estimators, and multivariate statistics.
+Previously, I gained valuable academic experience as a Research Engineer at the [LABSTICC](https://labsticc.fr/en) laboratory, within the [MOTEL](https://labsticc.fr/fr/equipes/motel) team, where my research focused using Natural Language Processing to improve, the online notebook for writing and learning sciences, [LabNbook](https://labnbook.fr/en/home/). 
 
 I also have a strong background in teaching and mentoring. From 2019 to 2021, I worked as a Temporary Teaching and Research Assistant (ATER) at [INSA de Rouen Normandie](https://www.insa-rouen.fr), where I helped students master complex mathematical and statistical concepts.
 
