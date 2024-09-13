@@ -1,12 +1,14 @@
+<!-- pages/projects.md 
 ---
-layout: page
-title: Projects
-permalink: /projects/
-description: Some interesting projects.
-nav: true
-nav_order: 2
-display_categories: [work, fun]
-horizontal: false
+    layout: page
+    title: Projects
+    permalink: /projects/
+    description: Some interesting projects.
+    nav: true
+    nav_order: 2
+    display_categories: [work, fun]
+    horizontal: false
+-->
 ---
 
 <!-- pages/projects.md -->
