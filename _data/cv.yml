@@ -6,47 +6,33 @@
     - name: Date of Birth
       value: 17th January 1988
     - name : Actual position
-      value : R&D Engineer at IMT Atlantique
+      value : Deputy Head of Data Science at PRIMEVER
     - name : Email
       value :  <a href="mailto:mohamed.anis.haddouche@gmail.com">mohamed.anis.haddouche@gmail.com</a>
     - name : Phone
       value : +33 766 552 073
     - name : Localisation
-      value : Brest, France
+      value : Agen, France
     - name: Languages
-      value: Arabic, French and English  
+      value: French, English and Arabic
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Applied Mathematics 
-      institution: Université de Rouen Normandie & <a href="https://www.enssea.net/fr/"> ENSSEA </a> 
-      year: 2019
-      description:
-        - <a href="https://tel.archives-ouvertes.fr/tel-02376077">Estimation d'une matrice d'échelle </a>
-        - Supervised by <a href="https://www.researchgate.net/profile/Dominique-Fourdrinier">Dominique Fourdrinier</a> and <a href="https://www.researchgate.net/profile/Fatiha-Mezoued">Fatiha Mezoued</a>
-
-    - title: Master degree in stochastic modeling and forecasting in operations research
-      institution: Université des Sciences et de la Technologie  Houari-Boumédiène (<a href="http://www.usthb.dz">USTHB</a>) 
-      year: 2014
-      description:
-        - <a href="https://github.com/AnisHdd/anismhaddouche/blob/master/assets/pdf/A-M_Haddouche_Master.pdf">Research internship in stochastic volatility models classical and Bayesian estimation </a>
         
-
-    - title: Bachelor's degree in statistics
-      institution: <a href="http://www.usthb.dz">USTHB</a> 
-      year: 2012
-      description:
-        - Research internship in Markov chain Monte Carlo (MCMC) method and variance reduction techniques
-        
-
 
 - title: Experience
   type: time_table
   contents:
+    - title: Deputy Head of Data Science 
+      institution: , <a href="https://www.reseau-primever.com/">PRIMEVER</a>  
+      year: Dec 2023 - To date
+      description:
+        - As Deputy Head of Data Science at PRIMEVER, I work closely with the Head of Data Science to oversee the department’s projects, ensuring quality and relevance.
+        - My role includes coordinating teams, developing advanced analytical strategies, and implementing innovative solutions.
+        - My primary goal is to contribute to the growth and ongoing success of PRIMEVER in the fruit and vegetable transportation sector.
+    
+
     - title: Research & Development Engineer 
       institution: IMT Atlantique, LABSTICC, <a href="https://labsticc.fr/fr/equipes/motel">MOTEL</a>  
-      year: Sep 2021 - To date
+      year: Sep 2021 - Aug 2023
       description:
         - Implementation of algorithms for the design of collaboration indicators on text documents (NLP)
         - Building  a neural network model (with SpaCy) to extract mathematical formulas from textual documents
@@ -82,6 +68,28 @@
       description :
           - Management of men's shoe manufacturing (family business)
           - Raw materials purchasing manager
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Applied Mathematics 
+      institution: Université de Rouen Normandie & <a href="https://www.enssea.net/fr/"> ENSSEA </a> 
+      year: 2019
+      description:
+        - <a href="https://tel.archives-ouvertes.fr/tel-02376077">Estimation d'une matrice d'échelle </a>
+        - Supervised by <a href="https://www.researchgate.net/profile/Dominique-Fourdrinier">Dominique Fourdrinier</a> and <a href="https://www.researchgate.net/profile/Fatiha-Mezoued">Fatiha Mezoued</a>
+
+    - title: Master degree in stochastic modeling and forecasting in operations research
+      institution: Université des Sciences et de la Technologie  Houari-Boumédiène (<a href="http://www.usthb.dz">USTHB</a>) 
+      year: 2014
+      description:
+        - <a href="https://github.com/AnisHdd/anismhaddouche/blob/master/assets/pdf/A-M_Haddouche_Master.pdf">Research internship in stochastic volatility models classical and Bayesian estimation </a>
+        
+
+    - title: Bachelor's degree in statistics
+      institution: <a href="http://www.usthb.dz">USTHB</a> 
+      year: 2012
+      description:
+        - Research internship in Markov chain Monte Carlo (MCMC) method and variance reduction techniques
 
 - title: SKILLS
   type: time_table
