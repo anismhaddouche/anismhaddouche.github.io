@@ -10,13 +10,13 @@ profile:
   description : 
   image_circular: False # crops the image to make it circular
   address: >
-    <p> Deputy Head of Data Science<p>
-    <p>[PRIMEVER](https://www.reseau-primever.com/en/)</p>
+    <p>Deputy Head of Data Science<p>
+    <p>PRIMEVER</p>
     <p>Agen, France<p>
 news: false  # includes a list of news items
-project: true
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+projects: true
 ---
 
 
