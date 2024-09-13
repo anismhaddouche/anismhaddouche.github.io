@@ -22,7 +22,7 @@
   type: time_table
   contents:
     - title: Deputy Head of Data Science 
-      institution: , <a href="https://www.reseau-primever.com/">PRIMEVER</a>  
+      institution: <a href="https://www.reseau-primever.com/">PRIMEVER</a>  
       year: Dec 2023 - To date
       description:
         - As Deputy Head of Data Science at PRIMEVER, I work closely with the Head of Data Science to oversee the department’s projects, ensuring quality and relevance.
@@ -68,6 +68,7 @@
       description :
           - Management of men's shoe manufacturing (family business)
           - Raw materials purchasing manager
+          
 - title: Education
   type: time_table
   contents:
