@@ -68,7 +68,7 @@
       description :
           - Management of men's shoe manufacturing (family business)
           - Raw materials purchasing manager
-          
+
 - title: Education
   type: time_table
   contents:
@@ -141,14 +141,15 @@
       year:  Academic
       description:
       - Shrinkage estimation 
-      - Covariance and scale matrices estimation on a theoretic decision point of view
-      - Portfolio optimization in Finance
+      - Algebra  
+      - Teaching Statistics and Machine Learning
 
     - title: 
       year : Other
       description: 
         - I am a curious and passionate person interested in data sciences new things
         - I am also passionate about cinema, soccer, new technologies and video-games
+        
 
 # - title: Skills
 #   type: nested_list
