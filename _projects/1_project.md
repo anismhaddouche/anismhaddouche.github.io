@@ -1,24 +1,17 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Collaborative Writing
+description: Measuring Collaborative Writing with NLP
 img: assets/img/IMT.png
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Collaborative Writing (CW) is a common activity in education, which is being enhanced by the use of digital learning environments, leading to a growing research field in Computer-Supported Collaborative Learning (CSCL). 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+In order to help teachers to monitor students CW, we developed in this projets  two indicators that provide measures of student contributions to a text writing, namely balance of contribution and co-writing. We also identified CW strategies that are well defined in the literature.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Moreover, we conducted a questionnaire evaluation to verify the interpretation of the indicators and the strategies by teachers in higher education context, using student reports edited in a collaborative digital environment called [LabNbook](www.labnbook.com), during physics and chemistry courses in undergraduate level. Results showed that teachers have a good interpretation of the indicators and strategies. This work contributes to research insights in CW, and motivates future work to design meaningful learning indicators.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
