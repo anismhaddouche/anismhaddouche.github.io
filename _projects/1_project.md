@@ -9,7 +9,7 @@ category: work
 
 Collaborative Writing (CW) is a common activity in education, which is being enhanced by the use of digital learning environments, leading to a growing research field in Computer-Supported Collaborative Learning (CSCL). 
 
-In order to help teachers to monitor students CW, we developed in this projets  two indicators that provide measures of student contributions to a text writing, namely balance of contribution and co-writing. We also identified CW strategies that are well defined in the literature.
+In order to help teachers to monitor students CW, we developed in this projet  two indicators that provide measures of student contributions to a text writing, namely balance of contribution and co-writing. We also identified CW strategies that are well defined in the literature.
 
 Moreover, we conducted a questionnaire evaluation to verify the interpretation of the indicators and the strategies by teachers in higher education context, using student reports edited in a collaborative digital environment called [LabNbook](www.labnbook.com), during physics and chemistry courses in undergraduate level. Results showed that teachers have a good interpretation of the indicators and strategies. This work contributes to research insights in CW, and motivates future work to design meaningful learning indicators.
 
