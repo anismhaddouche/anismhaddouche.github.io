@@ -18,12 +18,17 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello and welcome to my website....
 
-I am a PhD on applied mathematics with a specialization in statistics. My research interests include decision theory, shrinkage estimators and multivariate statistics.
+Voici une version allégée et améliorée du texte avec un vocabulaire plus fluide et naturel :
 
-Currently, I am a research engineer at the [LABSTICC](https://labsticc.fr/en) laboratory within the [MOTEL](https://labsticc.fr/fr/equipes/motel) team since September 2021. I am also a freelance mentor on the [Openclassrooms](https://openclassrooms.com/fr/paths/164-data-scientist) data training paths (Data Science, Data Analyst and Machine Learning Engineer).
+---
 
-From 2019 to 2021 I was a temporary teaching and research assistant (ATER) at [INSA de Rouen Normandie](https://www.insa-rouen.fr).
+Hello and welcome to my website.
 
+I am currently the Deputy Head of Data Science at [PRIMEVER](https://www.reseau-primever.com/en/), a leading company in the transportation of fruits and vegetables. In this role, I manage a team of data scientists and analysts, and oversee projects focused on optimizing logistics and improving operational efficiency.
 
+Previously, I gained valuable academic experience as a Research Engineer at the [LABSTICC](https://labsticc.fr/en) laboratory, within the [MOTEL](https://labsticc.fr/fr/equipes/motel) team, where my research focused on applied mathematics and statistics, particularly decision theory, shrinkage estimators, and multivariate statistics.
+
+I also have a strong background in teaching and mentoring. From 2019 to 2021, I worked as a Temporary Teaching and Research Assistant (ATER) at [INSA de Rouen Normandie](https://www.insa-rouen.fr), where I helped students master complex mathematical and statistical concepts.
+
+In addition, I continue to share my expertise as a freelance mentor on data-related courses at [OpenClassrooms](https://openclassrooms.com/fr/paths/164-data-scientist), supporting aspiring data professionals in developing their skills in Data Science, Data Analysis, and Machine Learning.
